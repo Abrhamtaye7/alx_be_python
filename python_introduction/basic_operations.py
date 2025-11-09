@@ -1,6 +1,6 @@
-a = 10
-b = 5
-print (f"Addition of {a} and {b} is {a + b}")
-print (f"subtraction of {a} and {b} is {a - b}")
-print (f"multiplcatio of {a} and {b} is {a * b}")
+number1 = 10
+number2 = 5
+print (f"Addition of {number1 } and {number2} is {number1 + number2}")
+print (f"subtraction of {number1} and {number2} is {number1 - number2}")
+print (f"multiplcatio of {number1} and {number2} is {number1 * number2}")
 
