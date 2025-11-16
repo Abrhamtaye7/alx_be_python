@@ -21,5 +21,4 @@ else:
     message = "Note: " + message + ". Consider completing it when you have free time."
 
 # Display final reminder message
-print(message)
-
+print(f"Reminder: {message}")
