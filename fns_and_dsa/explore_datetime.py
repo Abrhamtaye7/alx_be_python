@@ -3,14 +3,11 @@ from datetime import datetime, timedelta
 
 def display_current_datetime():
     display_current_datetime = datetime.now()
-
     return display_current_datetime
 
 
 print(
-    f"Current date and time: {display_current_datetime().strftime('%Y-%m-%d %H-%M-%S')}")
-
-# Calculate and display the next day
+    f"Current date and time: {display_current_datetime().strftime('%Y-%m-%d %H:%M:%S')}")
 
 
 def number_of_days():
