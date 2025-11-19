@@ -8,7 +8,7 @@ def display_current_datetime():
 
 
 print(
-    f"Current date and time: {display_current_datetime().strftime('%Y-%m-%d-%H-%M-%S')}")
+    f"Current date and time: {display_current_datetime().strftime('%Y-%m-%d %H-%M-%S')}")
 
 # Calculate and display the next day
 
